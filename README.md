@@ -1,2 +1,5 @@
-LED lightshow
+LED lightshow.
+
+Right now just NeoPixel & FadeCandy.
+
 
